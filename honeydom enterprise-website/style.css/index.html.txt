@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>HONEYDOM ENTERPRISE</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>HONEYDOM ENTERPRISE</h1>
+  <p>Strive to Sustain | Quality products at affordable prices</p>
+  <p>📍 Stage ya Maziwa, Gede, Kilifi County</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#products">Products</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+
+<!-- HOME -->
+<section id="home">
+  <h2>Welcome to Honeydom Enterprise</h2>
+  <p>
+    We produce pure, natural and sustainably harvested honey and bee products from coastal Kenya.
+  </p>
+
+  <a class="btn" href="https://wa.me/254712344215?text=Hello%20Honeydom%2C%20I%20want%20to%20place%20an%20order" target="_blank">
+    🛒 Order on WhatsApp
+  </a>
+</section>
+
+<hr>
+
+<!-- ABOUT -->
+<section id="about">
+  <h2>About Us</h2>
+  <p>
+    Honeydom Enterprise is a beekeeping agribusiness focused on honey production,
+    processing, and marketing. We promote sustainable beekeeping, environmental conservation,
+    and community empowerment.
+  </p>
+
+  <p>
+    Led by Emmanuel Kalama, an apiculture expert with experience in modern and traditional beekeeping systems.
+  </p>
+</section>
+
+<hr>
+
+<!-- PRODUCTS -->
+<section id="products">
+  <h2>Our Products</h2>
+
+  <div class="card">🍯 Premium Coastal Mangrove Honey</div>
+  <div class="card">🌼 Arabuko Multi Flora Honey</div>
+  <div class="card">🐝 Stingless Bee Honey</div>
+  <div class="card">💊 Propolis Honey</div>
+  <div class="card">🧈 Beeswax Cakes</div>
+
+  <div class="card">
+    🕯️ Candles:
+    Butterfly | Heart | Tortoise | Rabbit | Sunflower shapes
+  </div>
+
+  <a class="btn" href="https://wa.me/254712344215?text=Hello%20Honeydom%2C%20I%20want%20to%20order%20your%20products" target="_blank">
+    Order Products via WhatsApp
+  </a>
+</section>
+
+<hr>
+
+<!-- CONTACT -->
+<section id="contact">
+  <h2>Contact Us</h2>
+
+  <p>📞 Phone / WhatsApp: +254712344215</p>
+  <p>📧 Email: honeydomenterprise@gmail.com</p>
+  <p>📍 Location: Stage ya Maziwa, Gede, Kilifi County</p>
+
+  <a class="btn" href="https://wa.me/254712344215" target="_blank">
+    Chat on WhatsApp
+  </a>
+</section>
+
+</div>
+
+</body>
+</html>
